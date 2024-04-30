@@ -8,6 +8,8 @@
 Selftest
 ========
 
+Main development of selftest is continued by Erik Groeneveld, see `ejgroene/selftest <https://github.com/ejgroene/selftest>`_.
+
 1. Introduction
 ===============
 
